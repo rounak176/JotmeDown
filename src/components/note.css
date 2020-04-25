@@ -1,0 +1,35 @@
+.card-container {
+    background-color: #fff;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    margin: 40px;
+    height: 150px;
+}
+
+.del-btn {
+    display: none;
+    margin: 15px;
+}
+
+.card-container p {
+    height: 100px;
+    padding: 0 10px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    overflow-wrap: break-word;
+}
+
+.card-container:hover {
+    transform: scale(1.05);
+    border:2px solid #f50057;
+}
+
+.card-container:hover .del-btn {
+    display: initial;
+}
