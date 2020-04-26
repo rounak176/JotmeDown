@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JotmeDown/static/css/main.e392fb29.chunk.css",
+    "main.js": "/JotmeDown/static/js/main.58946a75.chunk.js",
+    "main.js.map": "/JotmeDown/static/js/main.58946a75.chunk.js.map",
+    "runtime-main.js": "/JotmeDown/static/js/runtime-main.3c41668a.js",
+    "runtime-main.js.map": "/JotmeDown/static/js/runtime-main.3c41668a.js.map",
+    "static/js/2.67644bde.chunk.js": "/JotmeDown/static/js/2.67644bde.chunk.js",
+    "static/js/2.67644bde.chunk.js.map": "/JotmeDown/static/js/2.67644bde.chunk.js.map",
+    "index.html": "/JotmeDown/index.html",
+    "precache-manifest.798255ad8e541f69b9810f04b3c17949.js": "/JotmeDown/precache-manifest.798255ad8e541f69b9810f04b3c17949.js",
+    "service-worker.js": "/JotmeDown/service-worker.js",
+    "static/css/main.e392fb29.chunk.css.map": "/JotmeDown/static/css/main.e392fb29.chunk.css.map",
+    "static/js/2.67644bde.chunk.js.LICENSE.txt": "/JotmeDown/static/js/2.67644bde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c41668a.js",
+    "static/js/2.67644bde.chunk.js",
+    "static/css/main.e392fb29.chunk.css",
+    "static/js/main.58946a75.chunk.js"
+  ]
+}
