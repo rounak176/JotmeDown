@@ -8,7 +8,7 @@ class app extends Component {
     constructor() {
         super();
         this.state = {
-            a: ["hello", "mohit", "bhi=aya"],
+            a: ["Be the change that you wish to see in the world.", "So many books, so little time", "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind."],
             isActive: false,
             duplicate: null,
             activeNote :'',
